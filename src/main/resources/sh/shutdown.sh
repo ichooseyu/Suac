@@ -1,0 +1,1 @@
+curl -X POST localhost:8520/actuator/shutdown
