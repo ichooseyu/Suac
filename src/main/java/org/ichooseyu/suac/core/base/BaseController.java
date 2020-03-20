@@ -8,5 +8,5 @@ package org.ichooseyu.suac.core.base;
  */
 public abstract class BaseController<T extends BaseEntity> extends BaseClass {
 
-    public abstract void de();
+
 }

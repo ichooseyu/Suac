@@ -11,8 +11,4 @@ import org.ichooseyu.suac.core.bean.User;
  */
 public class UserController extends BaseController<User> {
 
-    @Override
-    public void de() {
-        System.out.println("test");
-    }
 }
