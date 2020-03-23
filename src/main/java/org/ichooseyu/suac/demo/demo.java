@@ -10,7 +10,7 @@ public class demo {
 
     @RequestMapping("/hello")
     public String  hello(){
-        return "test all for test2";
+        return "test all for test3";
     }
 
 }
